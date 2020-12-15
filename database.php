@@ -1,9 +1,9 @@
 <?php
 
-$server = 'localhost';
-$username = 'root';
-$password = '';
-$database = 'php_login_database';
+$server = 'bgfwf1n11vpvedtgwz73-mysql.services.clever-cloud.com';
+$username = 'ufizqln5nlad91mx';
+$password = 'Erz8LZaa1nCyctyIKhqp';
+$database = 'bgfwf1n11vpvedtgwz73';
 
 
 try {
