@@ -6,5 +6,5 @@
 
   session_destroy();
 
-  header('Location: /login-php/opcion.php');
+  header('Location: /login-php');
 ?>

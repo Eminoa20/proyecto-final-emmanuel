@@ -1,3 +1,3 @@
 <header>
-  <a href="/login-php/login.php">Proyecto Final</a>
+  <a href="/login-php">Proyecto Final</a>
 </header>
